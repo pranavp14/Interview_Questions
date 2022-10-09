@@ -391,5 +391,10 @@
         "id" : "69",
         "question" : "what if you get a good offer from other company?",
         "answerLink" : "https://www.job-applications.com/interview-questions/how-will-you-make-your-decision-if-given-multiple-job-offers/ "
-    }, 
+    },
+{
+        "id" : "70",
+        "question" : "How would you create an environment of collaboration on your team? ",
+        "answerLink" : "https://www.coursera.org/articles/project-management-interview-questions"
+    },
 ]
